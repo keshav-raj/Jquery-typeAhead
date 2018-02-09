@@ -1,0 +1,41 @@
+body{
+    background: url(images/indiaflag.jpg) no-repeat center center fixed;
+    background-size: cover;
+
+}
+
+
+#the-basics{
+ font-size: 2em;
+    border-radius: 9px;
+    color: black;
+    
+}
+#the-basics .tt-menu{
+    font-size: 1em;
+    text-align: left;
+}
+
+.tt-menu{
+    background:#FAFAFB;
+    margin-left: 50px;
+    margin-top: 5px;
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 20px;
+    color: black;
+    
+}
+
+.main{
+    background-color: black;
+    color: whitesmoke;
+    opacity: 0.7;
+    margin-top: 22%;
+    border-radius: 9px;
+    text-align: center;
+    padding: 5px;
+    padding-bottom: 20px;
+    width: 65%;
+    margin-left: 20%
+}
